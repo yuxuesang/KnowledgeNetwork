@@ -1,4 +1,4 @@
-  breed [customers customer]
+breed [customers customer]
 breed [servants servant]
 
 turtles-own
